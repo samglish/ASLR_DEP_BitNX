@@ -6,3 +6,6 @@ Protection ASLR, Bit NX, DEP, SafeSEH, Kernel patches and Safe coding
 * Bit NX : memory page "not executable"
 * DEP, SafeSEH, Kernel patches
 * Safe coding
+
+# ASLR
+<hr>
