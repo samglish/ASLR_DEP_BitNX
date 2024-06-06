@@ -27,7 +27,7 @@ linux-vdso.so.1 (0x00007fff6a9be000)
 libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0a7eb0e000)
 /lib64/ld-linux-x86-64.so.2 (0x00007f0a7ed19000)
 ```
-when we execute the code again the address changes. 0x00007fff6a9be000
+when we execute the code again the address changes. 0x00007fff6a9be000,0x00007f0a7eb0e000,0x00007f0a7ed19000
 
 ```terminal
 ldd /bin/sh
