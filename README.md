@@ -14,3 +14,8 @@ is a technique for randomly placing data areas in virtual memory. Typically thes
 This process makes it possible to limit the effects of buffer overflow attacks, for example.
 <br><br>
 It consists of making the configuration of processes “random”, by placing different basic elements in variable locations.
+<br>
+To list the set of shared libraries.
+```terminal
+ldd /bin/sh
+```
