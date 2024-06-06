@@ -43,3 +43,6 @@ libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f0147830000)
 Data Execution Prevention (DEP) is a security feature built into many modern operating systems such as Linux, Mac OS X, iOS, Microsoft Windows and Android.
 <br><br>
  It is intended to prevent the execution of code from blocks of memory expected to contain data in order to lower the probability of a successful buffer overflow attack.
+
+# Bit NX
+<hr>
