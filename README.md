@@ -47,7 +47,3 @@ Data Execution Prevention (DEP) is a security feature built into many modern ope
 # Bit NX
 <hr>
 It is an executable space protection technique used in processors to dissociate memory areas containing instructions, therefore executable, from areas containing data, protecting the system from viruses and Trojan horses using buffer overflow vulnerabilities. .
-sa
-dsdfs
-
-fsf
